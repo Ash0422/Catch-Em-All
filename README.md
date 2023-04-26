@@ -1,6 +1,5 @@
 # Catch-Em-All
-[![GitHub version](https://badge.fury.io/gh/Ash0422%2Fyourrepo.svg)](https://badge.fury.io/gh/MyPortfolio%2FMyPortfolio)
-[![Coverage Status](https://coveralls.io/repos/github/Ash0422/18-Social-Network-API/badge.svg?branch=master)](https://coveralls.io/github/Ash0422/18-Social-Network-API?branch=master)
+[![MasterHead](https://media.tenor.com/GPY_xF7gVOoAAAAC/gotta-catch-em-all.gif)
 
 ## Table of Contents
 
@@ -82,10 +81,14 @@ SO THAT I can stay up-to-date on my collection and adoption progress.
 ```
 ## Acceptance Criteria
 ```
-As a user of the Pokemon Adoption Center web application, I want to be able to browse through available Pokemon, view their details, 
-and add them to my cart for adoption. I also want to be able to checkout and pay for the adoption fees securely. The website should be easy to navigate and responsive on different devices.
+As a user of the Pokemon Adoption Center web application, 
+I want to be able to browse through available Pokemon, view their details, 
+and add them to my cart for adoption. 
+I also want to be able to checkout and pay for the adoption fees securely. 
+The website should be easy to navigate and responsive on different devices.
 ```
 ## Contributing
+
 Pull requests are welcome, please open an issue first to discuss what you would like to change. thank you
 
 ## Tests

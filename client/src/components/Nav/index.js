@@ -1,7 +1,7 @@
 import React from "react";
 import Auth from "../../utils/auth";
 import { Link } from "react-router-dom";
-import pokeball from "./pokemonBall.png"; 
+import pokeball from "./lazy-bear-z-nfts.gif"; 
 
 function Nav() {
 
