@@ -93,7 +93,7 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 
 ## Tests
 The Pokemon Adoption Center has been tested by the creators and it works fine.<br>
-this application has been uploaded to github: https://github.com/Angel24e/Catch-em-all <br>
+this application has been uploaded to github:  [Catch-Em-All GitHub](https://github.com/Angel24e/Catch-em-all)<br>
 this application has been deployed to Heroku: 
 
 ## Credits
