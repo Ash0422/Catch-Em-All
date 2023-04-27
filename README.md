@@ -1,5 +1,5 @@
 # Catch-Em-All
-[![MasterHead](https://media.tenor.com/GPY_xF7gVOoAAAAC/gotta-catch-em-all.gif)
+![MasterHead](https://media.tenor.com/GPY_xF7gVOoAAAAC/gotta-catch-em-all.gif)
 
 ## Table of Contents
 
