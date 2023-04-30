@@ -53,7 +53,7 @@ and a shopping cart for users to keep track of their selected Pokemon. The main 
 
 ## Installation
 you can : 
-check our Website on this link:   [Catch-Em-All Website](https://github.com/Ash0422)
+check our Website on this link:   [Catch-Em-All Website](https://catchenall.herokuapp.com/)
 
 ## Usage
 
@@ -94,7 +94,7 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 ## Tests
 The Pokemon Adoption Center has been tested by the creators and it works fine.<br>
 this application has been uploaded to github:  [Catch-Em-All GitHub](https://github.com/Angel24e/Catch-em-all)<br>
-this application has been deployed to Heroku: 
+this application has been deployed to Heroku:  [Catch-Em-All Heroku](https://catchenall.herokuapp.com/)
 
 ## Credits
 - [Achraf Chibane](https://github.com/Ash0422)

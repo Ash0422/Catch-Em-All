@@ -43,7 +43,7 @@ function CategoryMenu() {
 
   return (
     <div>
-      <h2>Choose a Type of Pokemon:</h2>
+      <h2>Available Type of Pokemons:</h2>
       {categories.map((item) => (
         <button
           key={item._id}
